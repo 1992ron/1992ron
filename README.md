@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ron Teller
+# 👋 Hi, I'm Ron
 
 QA Engineer with 4 years of experience in manual testing and the past year focused on building automation infrastructure for Web, API, Mobile, and Database testing.
 
