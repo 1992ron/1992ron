@@ -8,7 +8,7 @@ Always looking to learn, grow, and collaborate with strong engineering teams.
 ### 🔧 Tech Highlights
 - Python, Pytest, Selenium, Appium, Postman, Requests, Jenkins, Allure
 - Test strategy, STR/STD documentation, regression planning
-- SQL (demo use with SQLite), WinAppDriver, ElectronDriver
+- SQL, WinAppDriver, ElectronDriver
   
 ### 📂 Featured Projects
 🔹 [End-to-End Testing Framework](https://github.com/1992ron/End-to-End-Testing-Framework)  
